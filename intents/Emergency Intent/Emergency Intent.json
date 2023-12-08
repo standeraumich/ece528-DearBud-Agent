@@ -1,0 +1,7 @@
+{
+  "name": "b0d4dbf5-4b77-4fa5-9392-8035b96e5cc7",
+  "displayName": "Emergency Intent",
+  "priority": 500000,
+  "description": "The emergency intent is designed to recognize and respond to users expressing immediate mental health crises, such as thoughts of self-harm or suicide. The chatbot, when triggered by phrases indicative of urgent distress, responds with empathy, offers immediate support, and encourages users to reach out to professionals or trusted individuals. The intent aims to prioritize user safety, provide relevant resources, and extend ongoing assistance to those navigating severe mental health challenges.",
+  "numTrainingPhrases": 46
+}

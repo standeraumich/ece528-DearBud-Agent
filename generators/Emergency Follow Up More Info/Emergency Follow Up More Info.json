@@ -1,0 +1,13 @@
+{
+  "name": "113a3f8c-c0a5-4ff9-b2c6-953c6bba37d0",
+  "displayName": "Emergency Follow Up More Info",
+  "modelParameter": {
+    "temperature": 0.5,
+    "maxDecodeSteps": 128,
+    "topP": 0.94999999,
+    "topK": 40
+  },
+  "llmModelSettings": {
+    "model": "text-bison"
+  }
+}

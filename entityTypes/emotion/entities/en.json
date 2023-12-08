@@ -1,0 +1,47 @@
+{
+  "entities": [ {
+    "value": "sad",
+    "synonyms": [ "sad" ],
+    "languageCode": "en"
+  }, {
+    "value": "anxious",
+    "synonyms": [ "anxious" ],
+    "languageCode": "en"
+  }, {
+    "value": "stress",
+    "synonyms": [ "stress" ],
+    "languageCode": "en"
+  }, {
+    "value": "gloomy",
+    "synonyms": [ "gloomy" ],
+    "languageCode": "en"
+  }, {
+    "value": "struggle",
+    "synonyms": [ "struggle" ],
+    "languageCode": "en"
+  }, {
+    "value": "defeat",
+    "synonyms": [ "defeat" ],
+    "languageCode": "en"
+  }, {
+    "value": "distress",
+    "synonyms": [ "distress" ],
+    "languageCode": "en"
+  }, {
+    "value": "challenge",
+    "synonyms": [ "challenge" ],
+    "languageCode": "en"
+  }, {
+    "value": "negative",
+    "synonyms": [ "negative", "not positive" ],
+    "languageCode": "en"
+  }, {
+    "value": "overwhelm",
+    "synonyms": [ "overwhelm" ],
+    "languageCode": "en"
+  }, {
+    "value": "tired",
+    "synonyms": [ "tired" ],
+    "languageCode": "en"
+  } ]
+}

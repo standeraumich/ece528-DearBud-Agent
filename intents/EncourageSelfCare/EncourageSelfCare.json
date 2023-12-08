@@ -1,0 +1,22 @@
+{
+  "name": "ec14164a-5931-4924-ae38-a49954e6ed1f",
+  "displayName": "EncourageSelfCare",
+  "parameters": [ {
+    "id": "moodstate",
+    "entityType": "@moodState"
+  }, {
+    "id": "emotion",
+    "entityType": "@emotion"
+  }, {
+    "id": "interactionreason",
+    "entityType": "@interactionReason"
+  }, {
+    "id": "currentactivity",
+    "entityType": "@currentActivity"
+  }, {
+    "id": "sleepquality",
+    "entityType": "@sleepQuality"
+  } ],
+  "priority": 500000,
+  "numTrainingPhrases": 20
+}

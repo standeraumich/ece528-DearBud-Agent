@@ -1,0 +1,13 @@
+{
+  "name": "0c63c8b6-5fbe-4a4b-80ca-b17fb9b5f292",
+  "displayName": "NegativegenAi",
+  "modelParameter": {
+    "temperature": 0.5,
+    "maxDecodeSteps": 128,
+    "topP": 0.94999999,
+    "topK": 40
+  },
+  "llmModelSettings": {
+    "model": "text-bison"
+  }
+}

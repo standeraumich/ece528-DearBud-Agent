@@ -1,0 +1,20 @@
+{
+  "name": "83d55c6e-c3b1-44a5-a9fa-d58327e7af3e",
+  "displayName": "Mood Classifier AI",
+  "placeholders": [ {
+    "id": "last-utterance",
+    "name": "last-utterance"
+  }, {
+    "id": "route-descriptions",
+    "name": "route-descriptions"
+  } ],
+  "modelParameter": {
+    "temperature": 0.5,
+    "maxDecodeSteps": 128,
+    "topP": 0.94999999,
+    "topK": 40
+  },
+  "llmModelSettings": {
+    "model": "text-bison"
+  }
+}

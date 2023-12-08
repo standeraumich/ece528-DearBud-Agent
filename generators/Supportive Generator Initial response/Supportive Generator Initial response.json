@@ -1,0 +1,13 @@
+{
+  "name": "68133bd5-a0f3-45c0-bb62-d4d6e117c786",
+  "displayName": "Supportive Generator Initial response",
+  "modelParameter": {
+    "temperature": 0.5,
+    "maxDecodeSteps": 128,
+    "topP": 0.94999999,
+    "topK": 40
+  },
+  "llmModelSettings": {
+    "model": "text-bison"
+  }
+}

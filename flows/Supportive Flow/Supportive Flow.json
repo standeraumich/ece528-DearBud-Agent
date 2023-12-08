@@ -1,0 +1,75 @@
+{
+  "name": "9a66d3fc-7bcb-4add-a730-f3abfe412afe",
+  "displayName": "Supportive Flow",
+  "transitionRoutes": [ {
+    "intent": "Emergency Follow Up Succeeded",
+    "triggerFulfillment": {
+      "messages": [ {
+        "text": {
+          "text": [ "$request.generative.output" ]
+        },
+        "languageCode": "en"
+      } ],
+      "generators": [ {
+        "generator": "projects/chatbot-mentalhealth/locations/us-central1/agents/bd07ff89-1227-44e2-a2aa-e75c97f596e2/generators/3da7883c-c14d-42ae-960a-1e6fe9d29bdd",
+        "inputParameters": [ {
+          "key": "route_description",
+          "value": "Emergency Follow Up Succeeded"
+        } ],
+        "outputParameter": "$request.generative.output"
+      } ]
+    },
+    "targetPage": "Follow-up",
+    "name": "a68777f5-ed2b-4c19-bf24-f5870a6108a9"
+  } ],
+  "eventHandlers": [ {
+    "event": "sys.no-match-default",
+    "triggerFulfillment": {
+      "messages": [ {
+        "text": {
+          "text": [ "I didn't get that. Can you say it again?", "I missed what you said. What was that?", "Sorry, could you say that again?", "Sorry, can you say that again?", "Can you say that again?", "Sorry, I didn't get that. Can you rephrase?", "Sorry, what was that?", "One more time?", "What was that?", "Say that one more time?", "I didn't get that. Can you repeat?", "I missed that, say that again?" ]
+        },
+        "languageCode": "en"
+      } ],
+      "enableGenerativeFallback": true
+    },
+    "name": "f9f3da86-b1a1-444b-85b6-c4a099af7ae7"
+  }, {
+    "event": "sys.no-input-default",
+    "triggerFulfillment": {
+      "messages": [ {
+        "text": {
+          "text": [ "I didn't get that. Can you say it again?", "I missed what you said. What was that?", "Sorry, could you say that again?", "Sorry, can you say that again?", "Can you say that again?", "Sorry, I didn't get that. Can you rephrase?", "Sorry, what was that?", "One more time?", "What was that?", "Say that one more time?", "I didn't get that. Can you repeat?", "I missed that, say that again?" ]
+        },
+        "languageCode": "en"
+      } ]
+    },
+    "name": "9bdea29c-95e3-4b11-a51e-6e6a9f3a4f2c"
+  } ],
+  "nluSettings": {
+    "modelType": "MODEL_TYPE_ADVANCED",
+    "classificationThreshold": 0.30000001,
+    "modelTrainingMode": "MODEL_TRAINING_MODE_AUTOMATIC"
+  },
+  "knowledgeConnectorSettings": {
+    "enabled": true,
+    "triggerFulfillment": {
+      "messages": [ {
+        "text": {
+          "text": [ "$request.knowledge.answers[0]" ]
+        },
+        "languageCode": "en"
+      }, {
+        "languageCode": "en",
+        "knowledgeInfoCard": {
+          "maximumSnippets": 1
+        }
+      } ]
+    },
+    "dataStoreConnections": [ {
+      "dataStoreType": "UNSTRUCTURED",
+      "dataStore": "projects/258095084108/locations/us/collections/default_collection/dataStores/psychotherapy-info-page_1701220097682",
+      "languageCode": "en"
+    } ]
+  }
+}

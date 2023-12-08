@@ -1,0 +1,6 @@
+{
+  "promptTexts": [ {
+    "text": "Generate a supportive response based on the user's expressed emotional distress and their detailed description of a recurring cycle of overwhelming thoughts. Consider the context from the following matched intents: {$route-descriptions}.",
+    "languageCode": "en"
+  } ]
+}

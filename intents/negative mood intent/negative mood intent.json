@@ -1,0 +1,20 @@
+{
+  "name": "43853af9-397b-4984-835f-6704346d7b05",
+  "displayName": "negative mood intent",
+  "parameters": [ {
+    "id": "date-time",
+    "entityType": "@sys.date-time"
+  }, {
+    "id": "emotion",
+    "entityType": "@emotion"
+  }, {
+    "id": "currentactivity",
+    "entityType": "@currentActivity"
+  }, {
+    "id": "interactionreason",
+    "entityType": "@interactionReason"
+  } ],
+  "priority": 500000,
+  "description": "User further expresses their negative emotions and how they feel",
+  "numTrainingPhrases": 24
+}

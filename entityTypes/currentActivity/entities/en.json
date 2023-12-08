@@ -1,0 +1,15 @@
+{
+  "entities": [ {
+    "value": "working",
+    "synonyms": [ "working" ],
+    "languageCode": "en"
+  }, {
+    "value": "studying",
+    "synonyms": [ "studying" ],
+    "languageCode": "en"
+  }, {
+    "value": "relaxing",
+    "synonyms": [ "relaxing" ],
+    "languageCode": "en"
+  } ]
+}

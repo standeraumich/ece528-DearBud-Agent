@@ -1,0 +1,13 @@
+{
+  "name": "7b3e362e-2204-4fa9-9ce4-65c3252af569",
+  "displayName": "Emergency Follow up Succeed",
+  "modelParameter": {
+    "temperature": 0.5,
+    "maxDecodeSteps": 128,
+    "topP": 0.94999999,
+    "topK": 40
+  },
+  "llmModelSettings": {
+    "model": "text-bison"
+  }
+}

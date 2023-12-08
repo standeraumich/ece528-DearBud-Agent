@@ -1,0 +1,15 @@
+{
+  "entities": [ {
+    "value": "good",
+    "synonyms": [ "good" ],
+    "languageCode": "en"
+  }, {
+    "value": "fair",
+    "synonyms": [ "fair" ],
+    "languageCode": "en"
+  }, {
+    "value": "poor",
+    "synonyms": [ "poor" ],
+    "languageCode": "en"
+  } ]
+}

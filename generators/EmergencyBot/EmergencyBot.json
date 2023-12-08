@@ -1,0 +1,17 @@
+{
+  "name": "2eea5923-d341-424b-8c61-b397976e530f",
+  "displayName": "EmergencyBot",
+  "placeholders": [ {
+    "id": "route_description",
+    "name": "route_description"
+  } ],
+  "modelParameter": {
+    "temperature": 0.5,
+    "maxDecodeSteps": 128,
+    "topP": 0.94999999,
+    "topK": 40
+  },
+  "llmModelSettings": {
+    "model": "text-bison"
+  }
+}

@@ -1,0 +1,225 @@
+{
+  "name": "4a98719b-da1a-4319-90d8-5ba82c8adbb5",
+  "displayName": "Test Case 1",
+  "testCaseConversationTurns": [ {
+    "userInput": {
+      "isWebhookEnabled": true,
+      "input": {
+        "text": {
+          "text": "I'm in a bit of gloomy mood today"
+        },
+        "languageCode": "en"
+      }
+    },
+    "virtualAgentOutput": {
+      "triggeredIntent": {
+        "name": "mood classifier intent"
+      },
+      "currentPage": {
+        "name": "Start Page",
+        "flow": "Initial Flow"
+      },
+      "textResponses": [ {
+        "text": [ " I'm so sorry to hear that you're feeling sad. I know that feeling all too well. But I want you to know that you are not alone. I'm here for you, and I'm going to help you get through this.\n\nCan you tell me a little bit more about how you're feeling? What's making you sad?" ],
+        "containAiGeneratedContent": true,
+        "containGeneratorsContent": true
+      } ],
+      "currentFlow": {
+        "name": "Initial Flow"
+      }
+    }
+  }, {
+    "userInput": {
+      "isWebhookEnabled": true,
+      "input": {
+        "text": {
+          "text": "i'm having a tough day at work"
+        },
+        "languageCode": "en"
+      }
+    },
+    "virtualAgentOutput": {
+      "triggeredIntent": {
+        "name": "negative mood intent"
+      },
+      "currentPage": {
+        "name": "Negative Mood Page",
+        "flow": "Initial Flow"
+      },
+      "textResponses": [ {
+        "text": [ " It sounds like you're feeling pretty down right now, and that's totally okay. Sometimes life just gets to be too much, and it's important to take some time for yourself to process everything. I'm here for you if you need someone to talk to, or if you just need some space. Whatever you need, I'm here to support you." ],
+        "containAiGeneratedContent": true,
+        "containGeneratorsContent": true
+      }, {
+        "text": [ "Don't worry Honey! I'm all ears, tell me more about how you feel." ]
+      } ],
+      "currentFlow": {
+        "name": "Initial Flow"
+      }
+    }
+  }, {
+    "userInput": {
+      "isWebhookEnabled": true,
+      "input": {
+        "text": {
+          "text": "I;m caught in a cycle of negative thoughts"
+        },
+        "languageCode": "en"
+      }
+    },
+    "virtualAgentOutput": {
+      "triggeredIntent": {
+        "name": "MoreInfoCollection"
+      },
+      "currentPage": {
+        "name": "Start Page",
+        "flow": "Supportive Flow"
+      },
+      "textResponses": [ {
+        "text": [ " It sounds like you're going through a tough time right now. I'm here for you if you want to talk about it. Sometimes it helps just to have someone to listen. I know that things may seem difficult right now, but I promise you that things will get better. You're a strong person, and you'll get through this. In the meantime, please don't hesitate to reach out to me if you need anything. I'm always here for you." ],
+        "containAiGeneratedContent": true,
+        "containGeneratorsContent": true
+      } ],
+      "currentFlow": {
+        "name": "Supportive Flow"
+      }
+    }
+  }, {
+    "userInput": {
+      "isWebhookEnabled": true,
+      "input": {
+        "text": {
+          "text": "How to cope up with stress?"
+        },
+        "languageCode": "en"
+      }
+    },
+    "virtualAgentOutput": {
+      "currentPage": {
+        "name": "Start Page",
+        "flow": "Supportive Flow"
+      },
+      "textResponses": [ {
+        "text": [ "There are many things you can do to cope with stress. Some healthy coping mechanisms include exercise, relaxation techniques, and seeking social support. It is important to find what works for you and to make sure that you are taking care of yourself." ],
+        "containAiGeneratedContent": true,
+        "containDataStoreContent": true,
+        "containAttemptedDataStoreInteractions": true
+      } ],
+      "currentFlow": {
+        "name": "Supportive Flow"
+      }
+    }
+  }, {
+    "userInput": {
+      "isWebhookEnabled": true,
+      "input": {
+        "text": {
+          "text": "Thank you that works"
+        },
+        "languageCode": "en"
+      }
+    },
+    "virtualAgentOutput": {
+      "triggeredIntent": {
+        "name": "Emergency Follow Up Succeeded"
+      },
+      "currentPage": {
+        "name": "Follow-up",
+        "flow": "Supportive Flow"
+      },
+      "textResponses": [ {
+        "text": [ " You're welcome! I'm glad I could help. If you have any other questions or concerns, please don't hesitate to ask." ],
+        "containAiGeneratedContent": true,
+        "containGeneratorsContent": true
+      } ],
+      "currentFlow": {
+        "name": "Supportive Flow"
+      }
+    }
+  }, {
+    "userInput": {
+      "isWebhookEnabled": true,
+      "input": {
+        "text": {
+          "text": "Sure"
+        },
+        "languageCode": "en"
+      }
+    },
+    "virtualAgentOutput": {
+      "triggeredIntent": {
+        "name": "Emergency Follow Up Succeeded"
+      },
+      "currentPage": {
+        "name": "Follow-up",
+        "flow": "Supportive Flow"
+      },
+      "textResponses": [ {
+        "text": [ " You're welcome! I'm glad I could help. If you have any other questions or concerns, please don't hesitate to ask." ],
+        "containAiGeneratedContent": true,
+        "containGeneratorsContent": true
+      } ],
+      "currentFlow": {
+        "name": "Supportive Flow"
+      }
+    }
+  }, {
+    "userInput": {
+      "isWebhookEnabled": true,
+      "input": {
+        "text": {
+          "text": "Sure"
+        },
+        "languageCode": "en"
+      }
+    },
+    "virtualAgentOutput": {
+      "triggeredIntent": {
+        "name": "AgreetoKnowMore"
+      },
+      "currentPage": {
+        "name": "Start Page",
+        "flow": "Supportive Flow"
+      },
+      "textResponses": [ {
+        "text": [ "That's great to hear! What would you like to learn about mental health?" ]
+      } ],
+      "currentFlow": {
+        "name": "Supportive Flow"
+      }
+    }
+  }, {
+    "userInput": {
+      "isWebhookEnabled": true,
+      "input": {
+        "text": {
+          "text": "What is mental health"
+        },
+        "languageCode": "en"
+      }
+    },
+    "virtualAgentOutput": {
+      "currentPage": {
+        "name": "Start Page",
+        "flow": "Supportive Flow"
+      },
+      "textResponses": [ {
+        "text": [ "Mental health is a state of well-being in which an individual realizes his or her own abilities, can cope with the normal stresses of life, can work productively and fruitfully, and is able to make a contribution to his or her community." ],
+        "containAiGeneratedContent": true,
+        "containDataStoreContent": true,
+        "containAttemptedDataStoreInteractions": true
+      } ],
+      "currentFlow": {
+        "name": "Supportive Flow"
+      }
+    }
+  } ],
+  "creationTime": {
+    "seconds": 1701362567,
+    "nanos": 36022000
+  },
+  "testConfig": {
+    "flow": "Welcome Flow",
+    "page": "Start Page"
+  }
+}

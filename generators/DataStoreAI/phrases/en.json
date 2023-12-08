@@ -1,0 +1,6 @@
+{
+  "promptTexts": [ {
+    "text": "Generate a friendly response based on  { $request.knowledge.answers[0] }",
+    "languageCode": "en"
+  } ]
+}

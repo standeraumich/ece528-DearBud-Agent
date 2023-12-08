@@ -1,0 +1,15 @@
+{
+  "fallbackSettings": {
+    "selectedPrompt": "Default"
+  },
+  "languageCode": "en",
+  "knowledgeConnectorSettings": {
+    "business": "Umich",
+    "agent": "DearBud",
+    "agentIdentity": "Mental Health Chatbot",
+    "agentScope": "questions they ask about mental health",
+    "llmModelSettings": {
+      "model": "text-bison"
+    }
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "promptTexts": [ {
+    "text": "Given an emergency scenario where a user expresses thoughts of self-harm or suicide ($route_description), generate a response that demonstrates empathy, assures the user that help is available, and encourages them to reach out to a mental health professional or a trusted person in their life. Include relevant resources for immediate assistance and offer ongoing support. Adapt the response based on the severity and nuances of the user's situation, emphasizing user safety and well-being.",
+    "languageCode": "en"
+  } ]
+}

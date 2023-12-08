@@ -1,0 +1,85 @@
+{
+  "name": "cab257ea-8772-44ea-b662-d46ba02d173c",
+  "displayName": "Emergency Flow",
+  "transitionRoutes": [ {
+    "intent": "Emergency Follow Up Succeeded",
+    "triggerFulfillment": {
+      "messages": [ {
+        "text": {
+          "text": [ "$request.generative.output" ]
+        },
+        "languageCode": "en"
+      } ],
+      "generators": [ {
+        "generator": "projects/chatbot-mentalhealth/locations/us-central1/agents/bd07ff89-1227-44e2-a2aa-e75c97f596e2/generators/4922e4d6-5477-442e-becf-f97a75ab72b9",
+        "inputParameters": [ {
+          "key": "route_description",
+          "value": "Emergency Follow Up Succeeded"
+        } ],
+        "outputParameter": "$request.generative.output"
+      } ]
+    },
+    "targetPage": "End Session",
+    "name": "3d318ac1-c536-4d3c-bf62-fd92371ab751"
+  }, {
+    "intent": "Emergency Follow Up More Info",
+    "triggerFulfillment": {
+      "messages": [ {
+        "text": {
+          "text": [ "$request.generative.followup.moreinfo" ]
+        },
+        "languageCode": "en"
+      } ],
+      "generators": [ {
+        "generator": "projects/chatbot-mentalhealth/locations/us-central1/agents/bd07ff89-1227-44e2-a2aa-e75c97f596e2/generators/113a3f8c-c0a5-4ff9-b2c6-953c6bba37d0",
+        "outputParameter": "$request.generative.followup.moreinfo"
+      } ]
+    },
+    "name": "e961cf8a-16e2-4e4d-b296-979680b2456f"
+  } ],
+  "eventHandlers": [ {
+    "event": "sys.no-match-default",
+    "triggerFulfillment": {
+      "messages": [ {
+        "text": {
+          "text": [ "I didn't get that. Can you say it again?", "I missed what you said. What was that?", "Sorry, could you say that again?", "Sorry, can you say that again?", "Can you say that again?", "Sorry, I didn't get that. Can you rephrase?", "Sorry, what was that?", "One more time?", "What was that?", "Say that one more time?", "I didn't get that. Can you repeat?", "I missed that, say that again?" ]
+        },
+        "languageCode": "en"
+      } ],
+      "enableGenerativeFallback": true
+    },
+    "name": "c40f926b-fb18-4984-b50b-d77800244e68"
+  }, {
+    "event": "sys.no-input-default",
+    "triggerFulfillment": {
+      "messages": [ {
+        "text": {
+          "text": [ "I didn't get that. Can you say it again?", "I missed what you said. What was that?", "Sorry, could you say that again?", "Sorry, can you say that again?", "Can you say that again?", "Sorry, I didn't get that. Can you rephrase?", "Sorry, what was that?", "One more time?", "What was that?", "Say that one more time?", "I didn't get that. Can you repeat?", "I missed that, say that again?" ]
+        },
+        "languageCode": "en"
+      } ]
+    },
+    "name": "06203c90-1696-4b72-81a4-8940fcd576f3"
+  } ],
+  "nluSettings": {
+    "modelType": "MODEL_TYPE_ADVANCED",
+    "classificationThreshold": 0.30000001,
+    "modelTrainingMode": "MODEL_TRAINING_MODE_AUTOMATIC"
+  },
+  "knowledgeConnectorSettings": {
+    "enabled": true,
+    "triggerFulfillment": {
+      "messages": [ {
+        "text": {
+          "text": [ "$request.knowledge.answers[0]" ]
+        },
+        "languageCode": "en"
+      } ]
+    },
+    "dataStoreConnections": [ {
+      "dataStoreType": "UNSTRUCTURED",
+      "dataStore": "projects/258095084108/locations/us/collections/default_collection/dataStores/crisis-unstructured_1701319531963",
+      "languageCode": "en"
+    } ]
+  }
+}

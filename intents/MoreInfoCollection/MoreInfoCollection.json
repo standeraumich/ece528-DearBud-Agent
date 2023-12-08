@@ -1,0 +1,29 @@
+{
+  "name": "eac3c2de-2b60-435a-8ce6-9b1ed97ee977",
+  "displayName": "MoreInfoCollection",
+  "parameters": [ {
+    "id": "moodstate",
+    "entityType": "@moodState"
+  }, {
+    "id": "emotion",
+    "entityType": "@emotion"
+  }, {
+    "id": "date-time",
+    "entityType": "@sys.date-time"
+  }, {
+    "id": "interactionreason",
+    "entityType": "@interactionReason"
+  }, {
+    "id": "currency-name",
+    "entityType": "@sys.currency-name"
+  }, {
+    "id": "sleepquality",
+    "entityType": "@sleepQuality"
+  }, {
+    "id": "stresslevel",
+    "entityType": "@stressLevel"
+  } ],
+  "priority": 500000,
+  "description": "User conveys a sense of emotional distress.",
+  "numTrainingPhrases": 70
+}

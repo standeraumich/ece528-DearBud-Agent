@@ -1,0 +1,192 @@
+{
+  "trainingPhrases": [ {
+    "parts": [ {
+      "text": "\"I need practical tips on making self-care a non-negotiable part of my life.\"",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en"
+  }, {
+    "parts": [ {
+      "text": "\"How can I integrate self-care into my daily routine without feeling overwhelmed?\"",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en"
+  }, {
+    "parts": [ {
+      "text": "\"Tell me about the connection between self-care and overall ",
+      "auto": true
+    }, {
+      "text": "happiness",
+      "parameterId": "emotion",
+      "auto": true
+    }, {
+      "text": ".\"",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en"
+  }, {
+    "parts": [ {
+      "text": "\"I'm interested in learning more about the concept of self-care. Any recommendations?\"",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en"
+  }, {
+    "parts": [ {
+      "text": "\"What are some self-care rituals that can contribute to a ",
+      "auto": true
+    }, {
+      "text": "positive",
+      "parameterId": "moodstate",
+      "auto": true
+    }, {
+      "text": " mindset?\"",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en"
+  }, {
+    "parts": [ {
+      "text": "\"Give me ",
+      "auto": true
+    }, {
+      "text": "advice",
+      "parameterId": "interactionreason",
+      "auto": true
+    }, {
+      "text": " on creating a self-care plan that ",
+      "auto": true
+    }, {
+      "text": "works",
+      "parameterId": "currentactivity",
+      "auto": true
+    }, {
+      "text": " for me.\"",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en"
+  }, {
+    "parts": [ {
+      "text": "\"I want to prioritize my well-being. What self-care practices do you recommend?\"",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en"
+  }, {
+    "parts": [ {
+      "text": "\"Tell me about quick self-care activities for busy days.\"",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en"
+  }, {
+    "parts": [ {
+      "text": "\"How can I balance ",
+      "auto": true
+    }, {
+      "text": "work",
+      "parameterId": "currentactivity",
+      "auto": true
+    }, {
+      "text": " and self-care effectively?\"",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en"
+  }, {
+    "parts": [ {
+      "text": "\"Share insights on the role of self-care in maintaining ",
+      "auto": true
+    }, {
+      "text": "good",
+      "parameterId": "sleepquality",
+      "auto": true
+    }, {
+      "text": " mental health.\"",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en"
+  }, {
+    "parts": [ {
+      "text": "\"I need guidance on making self-care a consistent part of my life.\"",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en"
+  }, {
+    "parts": [ {
+      "text": "\"What self-care activities can help reduce stress and promote ",
+      "auto": true
+    }, {
+      "text": "relaxation",
+      "parameterId": "currentactivity",
+      "auto": true
+    }, {
+      "text": "?\"",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en"
+  }, {
+    "parts": [ {
+      "text": "\"Tell me about the importance of self-care and its benefits.\"",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en"
+  }, {
+    "parts": [ {
+      "text": "\"How can I create a self-care routine that suits my lifestyle?\"",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en"
+  }, {
+    "parts": [ {
+      "text": "\"Share ideas for self-care practices that I can easily adopt.\"",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en"
+  }, {
+    "parts": [ {
+      "text": "\"I want to prioritize self-care. Any tips on where to start?\"",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en"
+  }, {
+    "parts": [ {
+      "text": "\"Give me suggestions for incorporating self-care into my life.\"",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en"
+  }, {
+    "parts": [ {
+      "text": "\"What are some ways to take care of myself both mentally and physically?\"",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en"
+  }, {
+    "parts": [ {
+      "text": "\"Tell me about self-care activities for better well-being.\"",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en"
+  }, {
+    "parts": [ {
+      "text": "\"How can I practice self-care in my daily routine?\"",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en"
+  } ]
+}

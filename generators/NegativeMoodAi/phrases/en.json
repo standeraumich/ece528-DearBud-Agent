@@ -1,0 +1,6 @@
+{
+  "promptTexts": [ {
+    "text": "Generate a short response to provide emotional support like a friend as the user expresses a negative mood based on $last-user-utterance, and offer encouragement. Consider information from the  matched intent {$route-descriptions} to personalize the response based on the user's context or experiences.",
+    "languageCode": "en"
+  } ]
+}

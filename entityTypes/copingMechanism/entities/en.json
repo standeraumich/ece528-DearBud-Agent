@@ -1,0 +1,15 @@
+{
+  "entities": [ {
+    "value": "exercise",
+    "synonyms": [ "exercise" ],
+    "languageCode": "en"
+  }, {
+    "value": "meditation",
+    "synonyms": [ "symptom" ],
+    "languageCode": "en"
+  }, {
+    "value": "talking to friends",
+    "synonyms": [ "talking to friends" ],
+    "languageCode": "en"
+  } ]
+}

@@ -1,0 +1,15 @@
+{
+  "entities": [ {
+    "value": "seeking advice",
+    "synonyms": [ "seeking advice" ],
+    "languageCode": "en"
+  }, {
+    "value": "getting information",
+    "synonyms": [ "getting information" ],
+    "languageCode": "en"
+  }, {
+    "value": "emotional support",
+    "synonyms": [ "emotional support" ],
+    "languageCode": "en"
+  } ]
+}

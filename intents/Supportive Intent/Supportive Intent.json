@@ -1,0 +1,13 @@
+{
+  "name": "90e35437-de93-4e7e-a260-96c9d1fec115",
+  "displayName": "Supportive Intent",
+  "parameters": [ {
+    "id": "interactionreason",
+    "entityType": "@interactionReason"
+  }, {
+    "id": "copingmechanism",
+    "entityType": "@copingMechanism"
+  } ],
+  "priority": 500000,
+  "numTrainingPhrases": 5
+}

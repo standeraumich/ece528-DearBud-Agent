@@ -1,0 +1,7 @@
+{
+  "name": "184bfed3-2954-48ab-aff8-db2e0f2a414c",
+  "displayName": "Emergency Follow Up Succeeded",
+  "priority": 500000,
+  "description": "User agrees to seek help",
+  "numTrainingPhrases": 7
+}

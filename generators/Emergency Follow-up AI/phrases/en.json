@@ -1,0 +1,6 @@
+{
+  "promptTexts": [ {
+    "text": "User expresses gratitude after receiving information. Generate a response that acknowledges the user's thanks and, if applicable, provides additional details or offers further assistance. Consider making the response informative and friendly, encouraging positive interaction. Consider matched intents from {$route_description}",
+    "languageCode": "en"
+  } ]
+}

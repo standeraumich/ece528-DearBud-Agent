@@ -1,0 +1,59 @@
+{
+  "name": "db892004-cb63-40e6-a779-e986f60df3e8",
+  "displayName": "Negative Mood Page",
+  "form": {
+  
+  },
+  "entryFulfillment": {
+    "messages": [ {
+      "text": {
+        "text": [ "Please feel free to tell me more about how you're feeling. Likewise, there is a lot of professional help possible, if you'd like to learn more about professional help feel free to ask." ]
+      },
+      "languageCode": "en"
+    } ]
+  },
+  "transitionRoutes": [ {
+    "intent": "MoreInfoCollection",
+    "triggerFulfillment": {
+      "messages": [ {
+        "text": {
+          "text": [ "$request.generative.output" ]
+        },
+        "languageCode": "en"
+      } ],
+      "generators": [ {
+        "generator": "projects/chatbot-mentalhealth/locations/us-central1/agents/bd07ff89-1227-44e2-a2aa-e75c97f596e2/generators/61b9b2c9-464b-4d96-9c0d-a221aebe86c4",
+        "inputParameters": [ {
+          "key": "route-descriptions",
+          "value": "MoreInfoCollection"
+        } ],
+        "outputParameter": "$request.generative.output"
+      } ]
+    },
+    "name": "676b69b5-2ec7-4c6e-9f9d-a200d0de6f09"
+  }, {
+    "intent": "Supportive Intent",
+    "triggerFulfillment": {
+      "messages": [ {
+        "text": {
+          "text": [ "$request.generative.support" ]
+        },
+        "languageCode": "en"
+      } ],
+      "generators": [ {
+        "generator": "projects/chatbot-mentalhealth/locations/us-central1/agents/bd07ff89-1227-44e2-a2aa-e75c97f596e2/generators/68133bd5-a0f3-45c0-bb62-d4d6e117c786",
+        "outputParameter": "$request.generative.support"
+      } ]
+    },
+    "targetFlow": "Supportive Flow",
+    "name": "8848b3c4-f132-49c0-b04e-7eb317ca3610"
+  } ],
+  "knowledgeConnectorSettings": {
+    "targetFlow": "Supportive Flow",
+    "dataStoreConnections": [ {
+      "dataStoreType": "UNSTRUCTURED",
+      "dataStore": "projects/258095084108/locations/us/collections/default_collection/dataStores/unstructured-html_1700971632355",
+      "languageCode": "en"
+    } ]
+  }
+}

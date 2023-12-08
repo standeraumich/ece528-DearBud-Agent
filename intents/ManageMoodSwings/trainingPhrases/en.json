@@ -1,0 +1,171 @@
+{
+  "trainingPhrases": [ {
+    "parts": [ {
+      "text": "\"I want to develop resilience against mood swings. Any recommendations?\"",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en"
+  }, {
+    "parts": [ {
+      "text": "\"Tell me about successful stories of people managing and overcoming mood swings.\"",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en"
+  }, {
+    "parts": [ {
+      "text": "\"Give me strategies for managing mood swings during stressful times.\"",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en"
+  }, {
+    "parts": [ {
+      "text": "\"What mindfulness practices can help me navigate mood swings?\"",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en"
+  }, {
+    "parts": [ {
+      "text": "\"I'm looking for practical tips on managing mood swings at ",
+      "auto": true
+    }, {
+      "text": "work",
+      "parameterId": "currentactivity",
+      "auto": true
+    }, {
+      "text": ".\"",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en"
+  }, {
+    "parts": [ {
+      "text": "\"How can I create a ",
+      "auto": true
+    }, {
+      "text": "support",
+      "parameterId": "interactionreason",
+      "auto": true
+    }, {
+      "text": " system to manage mood swings effectively?\"",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en"
+  }, {
+    "parts": [ {
+      "text": "\"Share coping mechanisms for handling mood swings in different situations.\"",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en"
+  }, {
+    "parts": [ {
+      "text": "\"What role does self-awareness play in managing mood swings?\"",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en"
+  }, {
+    "parts": [ {
+      "text": "\"I want to proactively manage my mood swings. Where should I start?\"",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en"
+  }, {
+    "parts": [ {
+      "text": "\"Tell me about the connection between lifestyle and mood stability.\"",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en"
+  }, {
+    "parts": [ {
+      "text": "\"I need guidance on managing mood swings in a healthy way.\"",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en"
+  }, {
+    "parts": [ {
+      "text": "\"Give me ",
+      "auto": true
+    }, {
+      "text": "advice",
+      "parameterId": "interactionreason",
+      "auto": true
+    }, {
+      "text": " on maintaining ",
+      "auto": true
+    }, {
+      "text": "emotional",
+      "parameterId": "interactionreason1",
+      "auto": true
+    }, {
+      "text": " balance during mood swings.\"",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en"
+  }, {
+    "parts": [ {
+      "text": "\"How can I prevent mood swings from affecting my daily life?\"",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en"
+  }, {
+    "parts": [ {
+      "text": "\"Share insights on understanding and managing mood swings.\"",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en"
+  }, {
+    "parts": [ {
+      "text": "\"I'm dealing with mood swings. How can I cope with them?\"",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en"
+  }, {
+    "parts": [ {
+      "text": "\"What practices can help me stabilize my mood?\"",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en"
+  }, {
+    "parts": [ {
+      "text": "\"Tell me about techniques for managing mood fluctuations.\"",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en"
+  }, {
+    "parts": [ {
+      "text": "\"I want to learn how to better control my mood swings. Any tips?\"",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en"
+  }, {
+    "parts": [ {
+      "text": "\"Give me strategies for handling sudden changes in mood.\"",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en"
+  }, {
+    "parts": [ {
+      "text": "\"How can I effectively manage my mood swings?\"",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en"
+  } ]
+}

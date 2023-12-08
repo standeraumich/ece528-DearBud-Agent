@@ -1,0 +1,17 @@
+{
+  "name": "4922e4d6-5477-442e-becf-f97a75ab72b9",
+  "displayName": "Emergency Follow-up Succeed AI",
+  "placeholders": [ {
+    "id": "route_description",
+    "name": "route_description"
+  } ],
+  "modelParameter": {
+    "temperature": 0.5,
+    "maxDecodeSteps": 128,
+    "topP": 0.94999999,
+    "topK": 40
+  },
+  "llmModelSettings": {
+    "model": "text-bison"
+  }
+}

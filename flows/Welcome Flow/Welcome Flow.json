@@ -1,0 +1,123 @@
+{
+  "name": "00000000-0000-0000-0000-000000000000",
+  "displayName": "Welcome Flow",
+  "description": "A start flow created along with the agent",
+  "transitionRoutes": [ {
+    "intent": "Default Welcome Intent",
+    "triggerFulfillment": {
+      "messages": [ {
+        "text": {
+          "text": [ "$request.generative" ]
+        },
+        "languageCode": "en"
+      } ],
+      "generators": [ {
+        "generator": "projects/chatbot-mentalhealth/locations/us-central1/agents/bd07ff89-1227-44e2-a2aa-e75c97f596e2/generators/3be90d2d-df43-4909-be3b-477549b2d548",
+        "outputParameter": "$request.generative"
+      } ]
+    },
+    "name": "b54a9586-18c5-46d8-b6e0-8225978ca1bf",
+    "description": "initial startup page"
+  }, {
+    "intent": "mood classifier intent",
+    "triggerFulfillment": {
+      "messages": [ {
+        "text": {
+          "text": [ "$request.generative.mood" ]
+        },
+        "languageCode": "en"
+      } ],
+      "generators": [ {
+        "generator": "projects/chatbot-mentalhealth/locations/us-central1/agents/bd07ff89-1227-44e2-a2aa-e75c97f596e2/generators/14f5ffc6-dd0c-489c-a4f1-63852d179ccb",
+        "outputParameter": "$request.generative.mood"
+      } ]
+    },
+    "targetFlow": "Initial Flow",
+    "name": "a91a52f2-e1ba-493c-a2e5-f5fd29db860a"
+  }, {
+    "intent": "Emergency Intent",
+    "triggerFulfillment": {
+      "messages": [ {
+        "text": {
+          "text": [ "I’m sorry to hear that you’re going through a tough time. It’s important to know that you’re not alone and there are people who can help. If you’re feeling overwhelmed or need someone to talk to, you can call the National Suicide Prevention Lifeline at 1-800-273-TALK (8255) or text HOME to 741741 to connect with a trained crisis counselor." ]
+        },
+        "languageCode": "en"
+      } ]
+    },
+    "targetFlow": "Emergency Flow",
+    "name": "f7f1ac5d-7b03-4455-bedc-e3e29fef3e70"
+  }, {
+    "intent": "Supportive Intent",
+    "triggerFulfillment": {
+      "messages": [ {
+        "text": {
+          "text": [ "$request.generative.support" ]
+        },
+        "languageCode": "en"
+      } ],
+      "generators": [ {
+        "generator": "projects/chatbot-mentalhealth/locations/us-central1/agents/bd07ff89-1227-44e2-a2aa-e75c97f596e2/generators/68133bd5-a0f3-45c0-bb62-d4d6e117c786",
+        "outputParameter": "$request.generative.support"
+      } ]
+    },
+    "targetFlow": "Supportive Flow",
+    "name": "9d32b8a3-ab54-4c8f-83d6-3271fc6dab02"
+  } ],
+  "eventHandlers": [ {
+    "event": "sys.no-match-default",
+    "triggerFulfillment": {
+      "messages": [ {
+        "text": {
+          "text": [ "I didn't get that. Can you say it again?", "I missed what you said. What was that?", "Sorry, could you say that again?", "Sorry, can you say that again?", "Can you say that again?", "Sorry, I didn't get that. Can you rephrase?", "Sorry, what was that?", "One more time?", "What was that?", "Say that one more time?", "I didn't get that. Can you repeat?", "I missed that, say that again?" ]
+        },
+        "languageCode": "en"
+      } ],
+      "enableGenerativeFallback": true
+    },
+    "name": "07b210c4-e790-4ef7-9f1c-113e99c7cf9a"
+  }, {
+    "event": "sys.no-input-default",
+    "triggerFulfillment": {
+      "messages": [ {
+        "text": {
+          "text": [ "I didn't get that. Can you say it again?", "I missed what you said. What was that?", "Sorry, could you say that again?", "Sorry, can you say that again?", "Can you say that again?", "Sorry, I didn't get that. Can you rephrase?", "Sorry, what was that?", "One more time?", "What was that?", "Say that one more time?", "I didn't get that. Can you repeat?", "I missed that, say that again?" ]
+        },
+        "languageCode": "en"
+      } ]
+    },
+    "name": "d33eab9c-a6c0-4c1f-8926-b1dadbb359ba"
+  } ],
+  "nluSettings": {
+    "modelType": "MODEL_TYPE_ADVANCED",
+    "classificationThreshold": 0.30000001,
+    "modelTrainingMode": "MODEL_TRAINING_MODE_AUTOMATIC",
+    "multiIntentSettings": {
+    
+    }
+  },
+  "advancedSettings": {
+    "enabled": true
+  },
+  "knowledgeConnectorSettings": {
+    "enabled": true,
+    "triggerFulfillment": {
+      "messages": [ {
+        "text": {
+          "text": [ "$request.knowledge.answers[0]" ]
+        },
+        "languageCode": "en"
+      }, {
+        "languageCode": "en",
+        "knowledgeInfoCard": {
+          "maximumSnippets": 1
+        }
+      } ]
+    },
+    "targetFlow": "Supportive Flow",
+    "dataStoreConnections": [ {
+      "dataStoreType": "UNSTRUCTURED",
+      "dataStore": "projects/258095084108/locations/us/collections/default_collection/dataStores/unstructured-html_1700971632355",
+      "languageCode": "en"
+    } ]
+  }
+}

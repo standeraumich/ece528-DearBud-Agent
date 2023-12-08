@@ -1,0 +1,10 @@
+{
+  "name": "b80c1672-e347-45f2-9b06-6f80e3c25cf0",
+  "displayName": "Therapy Information Intent",
+  "parameters": [ {
+    "id": "interactionreason",
+    "entityType": "@interactionReason"
+  } ],
+  "priority": 500000,
+  "numTrainingPhrases": 21
+}

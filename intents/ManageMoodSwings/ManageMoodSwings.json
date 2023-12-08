@@ -1,0 +1,16 @@
+{
+  "name": "5a7e8dfe-c01a-4b5b-914d-874b15d5b67a",
+  "displayName": "ManageMoodSwings",
+  "parameters": [ {
+    "id": "interactionreason",
+    "entityType": "@interactionReason"
+  }, {
+    "id": "interactionreason1",
+    "entityType": "@interactionReason"
+  }, {
+    "id": "currentactivity",
+    "entityType": "@currentActivity"
+  } ],
+  "priority": 500000,
+  "numTrainingPhrases": 20
+}

@@ -1,0 +1,276 @@
+{
+  "trainingPhrases": [ {
+    "parts": [ {
+      "text": "\"",
+      "auto": true
+    }, {
+      "text": "Seeking",
+      "parameterId": "interactionreason",
+      "auto": true
+    }, {
+      "text": " ",
+      "auto": true
+    }, {
+      "text": "emotional support",
+      "parameterId": "interactionreason1",
+      "auto": true
+    }, {
+      "text": " and someone ",
+      "auto": true
+    }, {
+      "text": "to talk to",
+      "parameterId": "copingmechanism",
+      "auto": true
+    }, {
+      "text": " about my struggles.\"",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en"
+  }, {
+    "parts": [ {
+      "text": "\"Feeling isolated and in need of an understanding ",
+      "auto": true
+    }, {
+      "text": "friend",
+      "parameterId": "copingmechanism",
+      "auto": true
+    }, {
+      "text": ".\"",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en"
+  }, {
+    "parts": [ {
+      "text": "\"Can you provide a comforting presence right now?\"",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en"
+  }, {
+    "parts": [ {
+      "text": "\"Experiencing a difficult time and could use some ",
+      "auto": true
+    }, {
+      "text": "support",
+      "parameterId": "interactionreason",
+      "auto": true
+    }, {
+      "text": ".\"",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en"
+  }, {
+    "parts": [ {
+      "text": "\"Is there someone who can be there for me ",
+      "auto": true
+    }, {
+      "text": "emotionally",
+      "parameterId": "interactionreason",
+      "auto": true
+    }, {
+      "text": "?\"",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en"
+  }, {
+    "parts": [ {
+      "text": "\"Looking for a compassionate listener to share my thoughts.\"",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en"
+  }, {
+    "parts": [ {
+      "text": "\"Feeling overwhelmed, and I need someone ",
+      "auto": true
+    }, {
+      "text": "to talk to",
+      "parameterId": "copingmechanism",
+      "auto": true
+    }, {
+      "text": ".\"",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en"
+  }, {
+    "parts": [ {
+      "text": "\"",
+      "auto": true
+    }, {
+      "text": "Seeking",
+      "parameterId": "interactionreason",
+      "auto": true
+    }, {
+      "text": " someone who can empathize with my ",
+      "auto": true
+    }, {
+      "text": "emotions",
+      "parameterId": "interactionreason1",
+      "auto": true
+    }, {
+      "text": ".\"",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en"
+  }, {
+    "parts": [ {
+      "text": "\"Can you offer ",
+      "auto": true
+    }, {
+      "text": "emotional support",
+      "parameterId": "interactionreason",
+      "auto": true
+    }, {
+      "text": " and understanding?\"",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en"
+  }, {
+    "parts": [ {
+      "text": "\"In need of a ",
+      "auto": true
+    }, {
+      "text": "supportive",
+      "parameterId": "interactionreason",
+      "auto": true
+    }, {
+      "text": " conversation.\"",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en"
+  }, {
+    "parts": [ {
+      "text": "\"Feeling alone, and I need someone to connect with.\"",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en"
+  }, {
+    "parts": [ {
+      "text": "\"Is there someone who can provide ",
+      "auto": true
+    }, {
+      "text": "emotional",
+      "parameterId": "interactionreason",
+      "auto": true
+    }, {
+      "text": " guidance?\"",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en"
+  }, {
+    "parts": [ {
+      "text": "\"Feeling a bit down, and I could use some understanding.\"",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en"
+  }, {
+    "parts": [ {
+      "text": "\"Looking for a ",
+      "auto": true
+    }, {
+      "text": "friend to",
+      "parameterId": "copingmechanism",
+      "auto": true
+    }, {
+      "text": " share my feelings with.\"",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en"
+  }, {
+    "parts": [ {
+      "text": "\"I need someone ",
+      "auto": true
+    }, {
+      "text": "to talk to",
+      "parameterId": "copingmechanism",
+      "auto": true
+    }, {
+      "text": " about what's on my mind.\"",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en"
+  }, {
+    "parts": [ {
+      "text": "\"Can you be there for me ",
+      "auto": true
+    }, {
+      "text": "emotionally",
+      "parameterId": "interactionreason",
+      "auto": true
+    }, {
+      "text": " right now?\"",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en"
+  }, {
+    "parts": [ {
+      "text": "\"",
+      "auto": true
+    }, {
+      "text": "Emotionally",
+      "parameterId": "interactionreason",
+      "auto": true
+    }, {
+      "text": " overwhelmed and ",
+      "auto": true
+    }, {
+      "text": "seeking",
+      "parameterId": "interactionreason1",
+      "auto": true
+    }, {
+      "text": " a compassionate listener.\"",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en"
+  }, {
+    "parts": [ {
+      "text": "\"Is there someone available to lend a sympathetic ear?\"",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en"
+  }, {
+    "parts": [ {
+      "text": "\"Feeling a bit lost and in need of someone ",
+      "auto": true
+    }, {
+      "text": "to talk to",
+      "parameterId": "copingmechanism",
+      "auto": true
+    }, {
+      "text": ".\"",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en"
+  }, {
+    "parts": [ {
+      "text": "\"I'm going through a tough time and could use some ",
+      "auto": true
+    }, {
+      "text": "support",
+      "parameterId": "interactionreason",
+      "auto": true
+    }, {
+      "text": ".\"",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en"
+  } ]
+}

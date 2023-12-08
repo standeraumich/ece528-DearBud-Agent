@@ -1,0 +1,17 @@
+{
+  "name": "61b9b2c9-464b-4d96-9c0d-a221aebe86c4",
+  "displayName": "NegativeMoodAi",
+  "placeholders": [ {
+    "id": "route-descriptions",
+    "name": "route-descriptions"
+  } ],
+  "modelParameter": {
+    "temperature": 0.5,
+    "maxDecodeSteps": 128,
+    "topP": 0.94999999,
+    "topK": 40
+  },
+  "llmModelSettings": {
+    "model": "text-bison"
+  }
+}

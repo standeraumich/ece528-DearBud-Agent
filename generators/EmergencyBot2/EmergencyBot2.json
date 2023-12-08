@@ -1,0 +1,13 @@
+{
+  "name": "02d029fd-9e6b-4a7c-bbc3-169c00b48993",
+  "displayName": "EmergencyBot2",
+  "modelParameter": {
+    "temperature": 0.5,
+    "maxDecodeSteps": 128,
+    "topP": 0.94999999,
+    "topK": 40
+  },
+  "llmModelSettings": {
+    "model": "text-bison"
+  }
+}

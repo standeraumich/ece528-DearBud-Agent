@@ -1,0 +1,11 @@
+{
+  "name": "794d1020-71ce-4e43-a3d2-14ccc2319f58",
+  "displayName": "mood classifier intent",
+  "parameters": [ {
+    "id": "emotion",
+    "entityType": "@emotion"
+  } ],
+  "priority": 500000,
+  "description": "User expresses emotional distress",
+  "numTrainingPhrases": 33
+}

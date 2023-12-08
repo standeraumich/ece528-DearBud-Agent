@@ -1,0 +1,17 @@
+{
+  "name": "2f2ab352-14e9-4c07-a9d0-8f601d60f789",
+  "displayName": "Mood Handler AI",
+  "placeholders": [ {
+    "id": "route-descriptions",
+    "name": "route-descriptions"
+  } ],
+  "modelParameter": {
+    "temperature": 0.5,
+    "maxDecodeSteps": 128,
+    "topP": 0.94999999,
+    "topK": 40
+  },
+  "llmModelSettings": {
+    "model": "text-bison"
+  }
+}

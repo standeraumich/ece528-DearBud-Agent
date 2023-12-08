@@ -1,0 +1,10 @@
+{
+  "name": "4a60bf61-c435-4d25-bb0d-4b38c50bd867",
+  "displayName": "Twilio Calling service",
+  "genericWebService": {
+    "uri": "https://demo.twilio.com/welcome/voice/"
+  },
+  "timeout": {
+    "seconds": 5
+  }
+}

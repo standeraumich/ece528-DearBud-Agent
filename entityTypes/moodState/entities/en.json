@@ -1,0 +1,15 @@
+{
+  "entities": [ {
+    "value": "Neutral",
+    "synonyms": [ "Neutral" ],
+    "languageCode": "en"
+  }, {
+    "value": "Positve ",
+    "synonyms": [ "Not negative", "positive", "Positve " ],
+    "languageCode": "en"
+  }, {
+    "value": "Negative",
+    "synonyms": [ "negative", "Negative", "Not Positive " ],
+    "languageCode": "en"
+  } ]
+}

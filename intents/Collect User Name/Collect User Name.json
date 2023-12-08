@@ -1,0 +1,10 @@
+{
+  "name": "3306adfc-f235-4334-86a2-57ca30d3e68e",
+  "displayName": "Collect User Name",
+  "parameters": [ {
+    "id": "user_name",
+    "entityType": "@user_name"
+  } ],
+  "priority": 500000,
+  "numTrainingPhrases": 2
+}

@@ -1,0 +1,17 @@
+{
+  "name": "5a268e3d-dd2b-44f9-ba83-6d23dace06eb",
+  "displayName": "DataStoreAI",
+  "placeholders": [ {
+    "id": "request",
+    "name": "request"
+  } ],
+  "modelParameter": {
+    "temperature": 0.5,
+    "maxDecodeSteps": 128,
+    "topP": 0.94999999,
+    "topK": 40
+  },
+  "llmModelSettings": {
+    "model": "text-bison"
+  }
+}

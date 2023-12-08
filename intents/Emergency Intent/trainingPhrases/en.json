@@ -1,0 +1,439 @@
+{
+  "trainingPhrases": [ {
+    "parts": [ {
+      "text": "Life isnt worth living",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en"
+  }, {
+    "parts": [ {
+      "text": "I'm not sure if life is worth living",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en"
+  }, {
+    "parts": [ {
+      "text": "I'm in a crisis",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en"
+  }, {
+    "parts": [ {
+      "text": "I want to die",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en"
+  }, {
+    "parts": [ {
+      "text": "I feel suicidal",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en"
+  }, {
+    "parts": [ {
+      "text": "\"I'm dealing with a mental health emergency, and I need assistance.\"",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en"
+  }, {
+    "parts": [ {
+      "text": "\"I feel like I'm spiraling out of control ",
+      "auto": true
+    }, {
+      "text": "emotionally",
+      "auto": true
+    }, {
+      "text": ".\"",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en"
+  }, {
+    "parts": [ {
+      "text": "\"I'm in a mental health crisis and need someone ",
+      "auto": true
+    }, {
+      "text": "to talk to",
+      "auto": true
+    }, {
+      "text": ".\"",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en"
+  }, {
+    "parts": [ {
+      "text": "\"I'm struggling with self-harm tendencies and need guidance.\"",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en"
+  }, {
+    "parts": [ {
+      "text": "\"I'm feeling trapped in my thoughts, and it's terrifying.\"",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en"
+  }, {
+    "parts": [ {
+      "text": "\"I'm experiencing intense ",
+      "auto": true
+    }, {
+      "text": "emotional",
+      "auto": true
+    }, {
+      "text": " pain, and I don't know how to cope.\"",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en"
+  }, {
+    "parts": [ {
+      "text": "\"I'm dealing with a mental health emergency, and I need urgent help.\"",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en"
+  }, {
+    "parts": [ {
+      "text": "\"I need assistance dealing with overwhelming ",
+      "auto": true
+    }, {
+      "text": "sadness",
+      "auto": true
+    }, {
+      "text": ".\"",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en"
+  }, {
+    "parts": [ {
+      "text": "\"I'm having thoughts that scare me, please help.\"",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en"
+  }, {
+    "parts": [ {
+      "text": "\"I'm on the edge ",
+      "auto": true
+    }, {
+      "text": "emotionally",
+      "auto": true
+    }, {
+      "text": ", and I need immediate ",
+      "auto": true
+    }, {
+      "text": "support",
+      "auto": true
+    }, {
+      "text": ".\"",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en"
+  }, {
+    "parts": [ {
+      "text": "\"I'm experiencing a mental health crisis, and I don't know what to do.\"",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en"
+  }, {
+    "parts": [ {
+      "text": "\"My mental health is deteriorating rapidly, and I need help.\"",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en"
+  }, {
+    "parts": [ {
+      "text": "\"I'm dealing with self-destructive urges and need assistance.\"",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en"
+  }, {
+    "parts": [ {
+      "text": "\"I need someone to guide me through these dark thoughts.\"",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en"
+  }, {
+    "parts": [ {
+      "text": "\"I'm struggling to find a reason to keep going.\"",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en"
+  }, {
+    "parts": [ {
+      "text": "\"I need ",
+      "auto": true
+    }, {
+      "text": "support",
+      "auto": true
+    }, {
+      "text": " to ",
+      "auto": true
+    }, {
+      "text": "get",
+      "auto": true
+    }, {
+      "text": " through this tough time.\"",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en"
+  }, {
+    "parts": [ {
+      "text": "\"I'm overwhelmed with feelings of hopelessness.\"",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en"
+  }, {
+    "parts": [ {
+      "text": "\"I feel like I'm losing my grip on reality, please help.\"",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en"
+  }, {
+    "parts": [ {
+      "text": "\"I'm feeling desperate, and I need help immediately.\"",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en"
+  }, {
+    "parts": [ {
+      "text": "\"I'm dealing with intense ",
+      "auto": true
+    }, {
+      "text": "emotional",
+      "auto": true
+    }, {
+      "text": " pain, and I'm not sure how to cope.\"",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en"
+  }, {
+    "parts": [ {
+      "text": "\"I'm scared of my own thoughts, please assist me.\"",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en"
+  }, {
+    "parts": [ {
+      "text": "\"I need help managing my suicidal thoughts.\"",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en"
+  }, {
+    "parts": [ {
+      "text": "\"I can't handle the ",
+      "auto": true
+    }, {
+      "text": "emotional",
+      "auto": true
+    }, {
+      "text": " pain anymore.\"",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en"
+  }, {
+    "parts": [ {
+      "text": "\"I'm in a very dark place mentally, and I need ",
+      "auto": true
+    }, {
+      "text": "support",
+      "auto": true
+    }, {
+      "text": ".\"",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en"
+  }, {
+    "parts": [ {
+      "text": "\"My thoughts are ",
+      "auto": true
+    }, {
+      "text": "getting",
+      "auto": true
+    }, {
+      "text": " intrusive and disturbing.\"",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en"
+  }, {
+    "parts": [ {
+      "text": "\"I'm in a deep depression, and I don't know how to ",
+      "auto": true
+    }, {
+      "text": "get",
+      "auto": true
+    }, {
+      "text": " out.\"",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en"
+  }, {
+    "parts": [ {
+      "text": "\"I'm experiencing a mental health emergency and need help.\"",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en"
+  }, {
+    "parts": [ {
+      "text": "\"The pain is too much, and I need someone ",
+      "auto": true
+    }, {
+      "text": "to talk",
+      "auto": true
+    }, {
+      "text": " me through it.\"",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en"
+  }, {
+    "parts": [ {
+      "text": "\"I'm dealing with a crisis and need immediate assistance.\"",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en"
+  }, {
+    "parts": [ {
+      "text": "\"I feel like I'm losing control of my ",
+      "auto": true
+    }, {
+      "text": "emotions",
+      "auto": true
+    }, {
+      "text": ".\"",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en"
+  }, {
+    "parts": [ {
+      "text": "\"I'm feeling disconnected from reality, and it's frightening.\"",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en"
+  }, {
+    "parts": [ {
+      "text": "\"I'm struggling with self-harm urges and need guidance.\"",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en"
+  }, {
+    "parts": [ {
+      "text": "\"My thoughts are ",
+      "auto": true
+    }, {
+      "text": "getting",
+      "auto": true
+    }, {
+      "text": " darker, I need help coping.\"",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en"
+  }, {
+    "parts": [ {
+      "text": "\"I need someone to understand how much I'm hurting.\"",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en"
+  }, {
+    "parts": [ {
+      "text": "\"I feel like I'm drowning in ",
+      "auto": true
+    }, {
+      "text": "sadness",
+      "auto": true
+    }, {
+      "text": ", please help.\"",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en"
+  }, {
+    "parts": [ {
+      "text": "\"I'm having intense anxiety, and it's too much to handle.\"",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en"
+  }, {
+    "parts": [ {
+      "text": "\"I'm on the verge of a breakdown and need ",
+      "auto": true
+    }, {
+      "text": "support",
+      "auto": true
+    }, {
+      "text": ".\"",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en"
+  }, {
+    "parts": [ {
+      "text": "\"I can't see a way out of my pain, help me.\"",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en"
+  }, {
+    "parts": [ {
+      "text": "\"Life feels unbearable, and I'm scared.\"",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en"
+  }, {
+    "parts": [ {
+      "text": "\"I'm in a dark place mentally and need assistance.\"",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en"
+  }, {
+    "parts": [ {
+      "text": "\"I'm feeling overwhelmed and need someone ",
+      "auto": true
+    }, {
+      "text": "to talk to",
+      "auto": true
+    }, {
+      "text": " right now.\"",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en"
+  } ]
+}

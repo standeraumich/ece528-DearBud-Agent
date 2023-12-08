@@ -1,0 +1,16 @@
+{
+  "name": "7a18cb1b-abe4-4319-9113-bba77cb7182a",
+  "displayName": "SeekEmotionalSupport",
+  "parameters": [ {
+    "id": "copingmechanism",
+    "entityType": "@copingMechanism"
+  }, {
+    "id": "interactionreason",
+    "entityType": "@interactionReason"
+  }, {
+    "id": "interactionreason1",
+    "entityType": "@interactionReason"
+  } ],
+  "priority": 500000,
+  "numTrainingPhrases": 20
+}

@@ -1,0 +1,16 @@
+{
+  "name": "ccc710f7-f83b-4c15-ba5b-3573ef63dd8e",
+  "displayName": "Mood Intent",
+  "parameters": [ {
+    "id": "date-time",
+    "entityType": "@sys.date-time"
+  }, {
+    "id": "emotion",
+    "entityType": "@emotion"
+  }, {
+    "id": "interactionreason",
+    "entityType": "@interactionReason"
+  } ],
+  "priority": 500000,
+  "numTrainingPhrases": 10
+}

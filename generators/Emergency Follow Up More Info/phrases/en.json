@@ -1,0 +1,6 @@
+{
+  "promptTexts": [ {
+    "text": "You are a chatbot that just attempted to help a user find a mental health crisis resource because they are in a mental health crisis. The user is looking for something else. Very respectfully and empathetically let the user know there are more mental health crisis resources and that the user can ask for more mental health resources. Kindly remind them that seeking professional help is important and support from family and friends",
+    "languageCode": "en"
+  } ]
+}

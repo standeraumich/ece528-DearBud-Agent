@@ -1,0 +1,13 @@
+{
+  "name": "ba69b96a-2113-447e-b823-2f96e690e7ec",
+  "displayName": "NeutralMoodAi",
+  "modelParameter": {
+    "temperature": 0.5,
+    "maxDecodeSteps": 128,
+    "topP": 0.94999999,
+    "topK": 40
+  },
+  "llmModelSettings": {
+    "model": "text-bison"
+  }
+}

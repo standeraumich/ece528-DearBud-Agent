@@ -1,0 +1,6 @@
+{
+  "promptTexts": [ {
+    "text": "Generate a response that acknowledges the user's feelings based on their $last-utterance. If the last input suggests a sentiment of $last-utterance, respond in a comforting manner like a caring mother. Consider the context from the matched intents: {$route-descriptions}.\n\n",
+    "languageCode": "en"
+  } ]
+}

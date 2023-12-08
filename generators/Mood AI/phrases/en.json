@@ -1,0 +1,6 @@
+{
+  "promptTexts": [ {
+    "text": "Generate a short response that acknowledges the user's feelings and provides a positive or helpful message to console them like a mother. Consider the context from the following matched intents: {$route-descriptions}. Also, ask a follow-up question to know more about how they feel.",
+    "languageCode": "en"
+  } ]
+}

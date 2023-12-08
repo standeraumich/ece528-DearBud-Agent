@@ -1,0 +1,16 @@
+{
+  "name": "1d63aaf0-581b-4ed7-b08e-f15646e93739",
+  "displayName": "ExploreCopingStrategies",
+  "parameters": [ {
+    "id": "interactionreason",
+    "entityType": "@interactionReason"
+  }, {
+    "id": "interactionreason1",
+    "entityType": "@interactionReason"
+  }, {
+    "id": "currentactivity",
+    "entityType": "@currentActivity"
+  } ],
+  "priority": 500000,
+  "numTrainingPhrases": 20
+}

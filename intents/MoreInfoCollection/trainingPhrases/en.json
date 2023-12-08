@@ -1,0 +1,724 @@
+{
+  "trainingPhrases": [ {
+    "parts": [ {
+      "text": "\"I feel like I'm losing control of my ",
+      "auto": true
+    }, {
+      "text": "emotions",
+      "parameterId": "interactionreason",
+      "auto": true
+    }, {
+      "text": ".\"",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en"
+  }, {
+    "parts": [ {
+      "text": "\"I'm ",
+      "auto": true
+    }, {
+      "text": "emotionally",
+      "parameterId": "interactionreason",
+      "auto": true
+    }, {
+      "text": " exhausted, and it's impacting my well-being.\"",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en"
+  }, {
+    "parts": [ {
+      "text": "\"I'm caught in a cycle of ",
+      "auto": true
+    }, {
+      "text": "negative",
+      "parameterId": "moodstate",
+      "auto": true
+    }, {
+      "text": " thoughts.\"",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en"
+  }, {
+    "parts": [ {
+      "text": "\"It's hard to describe, but I just don't feel right.\"",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en"
+  }, {
+    "parts": [ {
+      "text": "\"I can't escape this overwhelming feeling of despair.\"",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en"
+  }, {
+    "parts": [ {
+      "text": "\"I feel like I'm drowning in my ",
+      "auto": true
+    }, {
+      "text": "emotions",
+      "parameterId": "interactionreason",
+      "auto": true
+    }, {
+      "text": ".\"",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en"
+  }, {
+    "parts": [ {
+      "text": "\"I'm in need of ",
+      "auto": true
+    }, {
+      "text": "support",
+      "parameterId": "interactionreason",
+      "auto": true
+    }, {
+      "text": " but don't know where to turn.\"",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en"
+  }, {
+    "parts": [ {
+      "text": "\"My ",
+      "auto": true
+    }, {
+      "text": "emotional",
+      "parameterId": "interactionreason",
+      "auto": true
+    }, {
+      "text": " state is affecting my daily life.\"",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en"
+  }, {
+    "parts": [ {
+      "text": "\"I feel like I'm at a breaking point.\"",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en"
+  }, {
+    "parts": [ {
+      "text": "\"I'm dealing with a constant sense of self-doubt.\"",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en"
+  }, {
+    "parts": [ {
+      "text": "\"My thoughts are racing, and I can't calm my mind.\"",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en"
+  }, {
+    "parts": [ {
+      "text": "\"I'm finding it hard to see the ",
+      "auto": true
+    }, {
+      "text": "positive",
+      "parameterId": "moodstate",
+      "auto": true
+    }, {
+      "text": " in anything.\"",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en"
+  }, {
+    "parts": [ {
+      "text": "\"I feel ",
+      "auto": true
+    }, {
+      "text": "emotionally",
+      "parameterId": "interactionreason",
+      "auto": true
+    }, {
+      "text": " fragile and don't know how to bounce back.\"",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en"
+  }, {
+    "parts": [ {
+      "text": "\"I'm experiencing a deep sense of loneliness.\"",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en"
+  }, {
+    "parts": [ {
+      "text": "\"There's a lack of motivation to do anything productive.\"",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en"
+  }, {
+    "parts": [ {
+      "text": "\"I feel like I'm stuck in a never-ending ",
+      "auto": true
+    }, {
+      "text": "rut",
+      "parameterId": "currency-name",
+      "auto": true
+    }, {
+      "text": ".\"",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en"
+  }, {
+    "parts": [ {
+      "text": "\"I'm overwhelmed by a constant sense of dread.\"",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en"
+  }, {
+    "parts": [ {
+      "text": "\"",
+      "auto": true
+    }, {
+      "text": "Negative",
+      "parameterId": "moodstate",
+      "auto": true
+    }, {
+      "text": " thoughts are consuming my mind.\"",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en"
+  }, {
+    "parts": [ {
+      "text": "\"I feel like I'm on the verge of tears all the time.\"",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en"
+  }, {
+    "parts": [ {
+      "text": "\"I've lost interest in things I used to enjoy.\"",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en"
+  }, {
+    "parts": [ {
+      "text": "\"Every small task feels like a huge effort.\"",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en"
+  }, {
+    "parts": [ {
+      "text": "\"My energy levels are at an all-time ",
+      "auto": true
+    }, {
+      "text": "low",
+      "parameterId": "stresslevel",
+      "auto": true
+    }, {
+      "text": ".\"",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en"
+  }, {
+    "parts": [ {
+      "text": "\"I can't seem to shake off this feeling of ",
+      "auto": true
+    }, {
+      "text": "sadness",
+      "parameterId": "emotion",
+      "auto": true
+    }, {
+      "text": ".\"",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en"
+  }, {
+    "parts": [ {
+      "text": "\"The world feels like a heavy place right now.\"",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en"
+  }, {
+    "parts": [ {
+      "text": "\"I'm ",
+      "auto": true
+    }, {
+      "text": "emotionally",
+      "parameterId": "interactionreason",
+      "auto": true
+    }, {
+      "text": " drained and don't know how to recharge.\"",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en"
+  }, {
+    "parts": [ {
+      "text": "\"There's a sense of hopelessness lingering in me.\"",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en"
+  }, {
+    "parts": [ {
+      "text": "\"I've been avoiding social situations because of how I feel.\"",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en"
+  }, {
+    "parts": [ {
+      "text": "\"I'm in a constant state of anxiety.\"",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en"
+  }, {
+    "parts": [ {
+      "text": "\"I feel detached from everything around me.\"",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en"
+  }, {
+    "parts": [ {
+      "text": "\"It's hard to find reasons to smile lately.\"",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en"
+  }, {
+    "parts": [ {
+      "text": "\"I feel like I'm stuck in a ",
+      "auto": true
+    }, {
+      "text": "negative",
+      "parameterId": "moodstate",
+      "auto": true
+    }, {
+      "text": " cycle.\"",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en"
+  }, {
+    "parts": [ {
+      "text": "\"The weight of my ",
+      "auto": true
+    }, {
+      "text": "emotions",
+      "parameterId": "interactionreason",
+      "auto": true
+    }, {
+      "text": " is overwhelming.\"",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en"
+  }, {
+    "parts": [ {
+      "text": "\"Every day feels like a struggle to ",
+      "auto": true
+    }, {
+      "text": "get",
+      "parameterId": "interactionreason",
+      "auto": true
+    }, {
+      "text": " through.\"",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en"
+  }, {
+    "parts": [ {
+      "text": "\"I feel isolated and don't know how to break out of it.\"",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en"
+  }, {
+    "parts": [ {
+      "text": "\"I'm finding it difficult to connect with others.\"",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en"
+  }, {
+    "parts": [ {
+      "text": "\"There's a constant sense of unease in me.\"",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en"
+  }, {
+    "parts": [ {
+      "text": "\"I've been having frequent mood swings.\"",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en"
+  }, {
+    "parts": [ {
+      "text": "\"Motivation is at an all-time ",
+      "auto": true
+    }, {
+      "text": "low",
+      "parameterId": "stresslevel",
+      "auto": true
+    }, {
+      "text": " for me.\"",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en"
+  }, {
+    "parts": [ {
+      "text": "\"I'm dealing with a lot of internal turmoil.\"",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en"
+  }, {
+    "parts": [ {
+      "text": "\"I feel like I'm on an ",
+      "auto": true
+    }, {
+      "text": "emotional",
+      "parameterId": "interactionreason",
+      "auto": true
+    }, {
+      "text": " rollercoaster.\"",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en"
+  }, {
+    "parts": [ {
+      "text": "\"Sleeping has become a challenge for me.\"",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en"
+  }, {
+    "parts": [ {
+      "text": "\"My mind feels foggy, and I can't concentrate.\"",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en"
+  }, {
+    "parts": [ {
+      "text": "\"I'm struggling with my ",
+      "auto": true
+    }, {
+      "text": "emotions",
+      "parameterId": "interactionreason",
+      "auto": true
+    }, {
+      "text": " and can't seem to control them.\"",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en"
+  }, {
+    "parts": [ {
+      "text": "\"It's hard to find joy in anything right now.\"",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en"
+  }, {
+    "parts": [ {
+      "text": "\"",
+      "auto": true
+    }, {
+      "text": "Emotionally",
+      "parameterId": "interactionreason",
+      "auto": true
+    }, {
+      "text": ", I'm just not in a ",
+      "auto": true
+    }, {
+      "text": "good",
+      "parameterId": "sleepquality",
+      "auto": true
+    }, {
+      "text": " place.\"",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en"
+  }, {
+    "parts": [ {
+      "text": "\"There's this heaviness in my chest, and I don't know why.\"",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en"
+  }, {
+    "parts": [ {
+      "text": "\"I feel like I'm in a constant state of stress.\"",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en"
+  }, {
+    "parts": [ {
+      "text": "\"Life feels overwhelming, and I'm not sure how to cope.\"",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en"
+  }, {
+    "parts": [ {
+      "text": "\"It's like a cloud of ",
+      "auto": true
+    }, {
+      "text": "sadness",
+      "parameterId": "emotion",
+      "auto": true
+    }, {
+      "text": " hanging over me.\"",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en"
+  }, {
+    "parts": [ {
+      "text": "\"I've been feeling really down lately.\"",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en"
+  }, {
+    "parts": [ {
+      "text": "\"I'm not feeling very ",
+      "auto": true
+    }, {
+      "text": "positive",
+      "parameterId": "moodstate",
+      "auto": true
+    }, {
+      "text": ".\"",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en"
+  }, {
+    "parts": [ {
+      "text": "\"I'm feeling stressed out.\"",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en"
+  }, {
+    "parts": [ {
+      "text": "\"I'm having a tough day.\"",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en"
+  }, {
+    "parts": [ {
+      "text": "\"I feel a bit overwhelmed.\"",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en"
+  }, {
+    "parts": [ {
+      "text": "\"I'm not in the best mood.\"",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en"
+  }, {
+    "parts": [ {
+      "text": "\"I'm feeling a bit ",
+      "auto": true
+    }, {
+      "text": "low",
+      "parameterId": "stresslevel",
+      "auto": true
+    }, {
+      "text": ".\"",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en"
+  }, {
+    "parts": [ {
+      "text": "\"Things are not going great for me.\"",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en"
+  }, {
+    "parts": [ {
+      "text": "\"I'm feeling ",
+      "auto": true
+    }, {
+      "text": "sad",
+      "parameterId": "emotion",
+      "auto": true
+    }, {
+      "text": ".\"",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en"
+  }, {
+    "parts": [ {
+      "text": "\"I'm not doing so well ",
+      "auto": true
+    }, {
+      "text": "today",
+      "parameterId": "date-time",
+      "auto": true
+    }, {
+      "text": ".\"",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en"
+  }, {
+    "parts": [ {
+      "text": "\"I'm feeling a bit down.\"",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en"
+  }, {
+    "parts": [ {
+      "text": "\"I'm feeling ",
+      "auto": true
+    }, {
+      "text": "positive",
+      "parameterId": "moodstate",
+      "auto": true
+    }, {
+      "text": " vibes.\"",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en"
+  }, {
+    "parts": [ {
+      "text": "\"I'm okay, not too bad.\"",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en"
+  }, {
+    "parts": [ {
+      "text": "\"I'm feeling optimistic.\"",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en"
+  }, {
+    "parts": [ {
+      "text": "\"Life is ",
+      "auto": true
+    }, {
+      "text": "good",
+      "parameterId": "sleepquality",
+      "auto": true
+    }, {
+      "text": " right now.\"",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en"
+  }, {
+    "parts": [ {
+      "text": "\"I feel ",
+      "auto": true
+    }, {
+      "text": "positive",
+      "parameterId": "moodstate",
+      "auto": true
+    }, {
+      "text": " ",
+      "auto": true
+    }, {
+      "text": "today",
+      "parameterId": "date-time",
+      "auto": true
+    }, {
+      "text": ".\"",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en"
+  }, {
+    "parts": [ {
+      "text": "\"I'm doing fine, thank you.\"",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en"
+  }, {
+    "parts": [ {
+      "text": "\"I'm feeling ",
+      "auto": true
+    }, {
+      "text": "happy",
+      "parameterId": "emotion",
+      "auto": true
+    }, {
+      "text": ".\"",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en"
+  }, {
+    "parts": [ {
+      "text": "\"Things are going well for me.\"",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en"
+  }, {
+    "parts": [ {
+      "text": "\"I'm in a ",
+      "auto": true
+    }, {
+      "text": "good",
+      "parameterId": "sleepquality",
+      "auto": true
+    }, {
+      "text": " mood.\"",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en"
+  }, {
+    "parts": [ {
+      "text": "\"I'm feeling great ",
+      "auto": true
+    }, {
+      "text": "today",
+      "parameterId": "date-time",
+      "auto": true
+    }, {
+      "text": ".\"",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en"
+  } ]
+}

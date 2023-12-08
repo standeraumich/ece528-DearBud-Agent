@@ -1,0 +1,13 @@
+{
+  "name": "d95fff40-19c3-49c0-b81b-49b31045fd11",
+  "displayName": "InfoBud",
+  "modelParameter": {
+    "temperature": 0.5,
+    "maxDecodeSteps": 128,
+    "topP": 0.94999999,
+    "topK": 40
+  },
+  "llmModelSettings": {
+    "model": "text-bison"
+  }
+}

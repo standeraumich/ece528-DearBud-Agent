@@ -1,0 +1,17 @@
+{
+  "name": "f33503e1-8e17-4191-8898-1e5ec2297282",
+  "displayName": "Mood AI",
+  "placeholders": [ {
+    "id": "route-descriptions",
+    "name": "route-descriptions"
+  } ],
+  "modelParameter": {
+    "temperature": 0.5,
+    "maxDecodeSteps": 128,
+    "topP": 0.94999999,
+    "topK": 40
+  },
+  "llmModelSettings": {
+    "model": "text-bison"
+  }
+}

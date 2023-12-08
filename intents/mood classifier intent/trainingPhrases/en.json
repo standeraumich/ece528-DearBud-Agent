@@ -1,0 +1,353 @@
+{
+  "trainingPhrases": [ {
+    "parts": [ {
+      "text": "I'm feeling a bit "
+    }, {
+      "text": "hyper",
+      "parameterId": "emotion"
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en"
+  }, {
+    "parts": [ {
+      "text": "I feel "
+    }, {
+      "text": "anxious",
+      "parameterId": "emotion"
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en"
+  }, {
+    "parts": [ {
+      "text": "I feel "
+    }, {
+      "text": "depressed",
+      "parameterId": "emotion"
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en"
+  }, {
+    "parts": [ {
+      "text": "Struggling",
+      "parameterId": "emotion"
+    }, {
+      "text": " a bit"
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en"
+  }, {
+    "parts": [ {
+      "text": "I'm feeling "
+    }, {
+      "text": "stressed",
+      "parameterId": "emotion"
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en"
+  }, {
+    "parts": [ {
+      "text": "I'm feeling "
+    }, {
+      "text": "annoyed",
+      "parameterId": "emotion"
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en"
+  }, {
+    "parts": [ {
+      "text": "I'm feeling "
+    }, {
+      "text": "angry",
+      "parameterId": "emotion"
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en"
+  }, {
+    "parts": [ {
+      "text": "I'm feeling "
+    }, {
+      "text": "down",
+      "parameterId": "emotion"
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en"
+  }, {
+    "parts": [ {
+      "text": "I'm feeling "
+    }, {
+      "text": "sad",
+      "parameterId": "emotion"
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en"
+  }, {
+    "parts": [ {
+      "text": "\"I'm in a bit of a "
+    }, {
+      "text": "gloomy",
+      "parameterId": "emotion"
+    }, {
+      "text": " mood.\""
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en"
+  }, {
+    "parts": [ {
+      "text": "\"I'm facing some "
+    }, {
+      "text": "obstacles",
+      "parameterId": "emotion"
+    }, {
+      "text": " today.\""
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en"
+  }, {
+    "parts": [ {
+      "text": "\"Today is one of those "
+    }, {
+      "text": "tough",
+      "parameterId": "emotion"
+    }, {
+      "text": " days.\""
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en"
+  }, {
+    "parts": [ {
+      "text": "\"Feeling a bit drained and "
+    }, {
+      "text": "exhausted",
+      "parameterId": "emotion"
+    }, {
+      "text": ".\""
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en"
+  }, {
+    "parts": [ {
+      "text": "\"Dealing with a bit of emotional "
+    }, {
+      "text": "strain",
+      "parameterId": "emotion"
+    }, {
+      "text": ".\""
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en"
+  }, {
+    "parts": [ {
+      "text": "\"I'm experiencing some "
+    }, {
+      "text": "setbacks",
+      "parameterId": "emotion"
+    }, {
+      "text": ".\""
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en"
+  }, {
+    "parts": [ {
+      "text": "\"Today is a bit of a "
+    }, {
+      "text": "downer",
+      "parameterId": "emotion"
+    }, {
+      "text": " for me.\""
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en"
+  }, {
+    "parts": [ {
+      "text": "\"Feeling a bit "
+    }, {
+      "text": "overwhelmed",
+      "parameterId": "emotion"
+    }, {
+      "text": " and tired.\""
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en"
+  }, {
+    "parts": [ {
+      "text": "\"Dealing with a bit of "
+    }, {
+      "text": "negativity",
+      "parameterId": "emotion"
+    }, {
+      "text": ".\""
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en"
+  }, {
+    "parts": [ {
+      "text": "\"I'm "
+    }, {
+      "text": "not in the best mood",
+      "parameterId": "emotion"
+    }, {
+      "text": " today.\""
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en"
+  }, {
+    "parts": [ {
+      "text": "\"Life is presenting some "
+    }, {
+      "text": "challenges",
+      "parameterId": "emotion"
+    }, {
+      "text": ".\""
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en"
+  }, {
+    "parts": [ {
+      "text": "\"I'm feeling a bit "
+    }, {
+      "text": "stressed",
+      "parameterId": "emotion"
+    }, {
+      "text": " out.\""
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en"
+  }, {
+    "parts": [ {
+      "text": "\"Today is a bit of a "
+    }, {
+      "text": "struggle",
+      "parameterId": "emotion"
+    }, {
+      "text": ".\""
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en"
+  }, {
+    "parts": [ {
+      "text": "\"I'm facing some "
+    }, {
+      "text": "tough situations",
+      "parameterId": "emotion"
+    }, {
+      "text": ".\""
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en"
+  }, {
+    "parts": [ {
+      "text": "\"Feeling a bit "
+    }, {
+      "text": "defeated",
+      "parameterId": "emotion"
+    }, {
+      "text": " today.\""
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en"
+  }, {
+    "parts": [ {
+      "text": "\"Things are "
+    }, {
+      "text": "not going well",
+      "parameterId": "emotion"
+    }, {
+      "text": " at the moment.\""
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en"
+  }, {
+    "parts": [ {
+      "text": "\"I'm going through a "
+    }, {
+      "text": "rough patch",
+      "parameterId": "emotion"
+    }, {
+      "text": ".\""
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en"
+  }, {
+    "parts": [ {
+      "text": "\"Today is "
+    }, {
+      "text": "not a great day",
+      "parameterId": "emotion"
+    }, {
+      "text": " for me.\""
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en"
+  }, {
+    "parts": [ {
+      "text": "\"Feeling a bit "
+    }, {
+      "text": "low",
+      "parameterId": "emotion"
+    }, {
+      "text": " and "
+    }, {
+      "text": "discouraged",
+      "parameterId": "emotion"
+    }, {
+      "text": ".\""
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en"
+  }, {
+    "parts": [ {
+      "text": "\"I'm dealing with some "
+    }, {
+      "text": "difficulties",
+      "parameterId": "emotion"
+    }, {
+      "text": ".\""
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en"
+  }, {
+    "parts": [ {
+      "text": "\"Life is "
+    }, {
+      "text": "tough",
+      "parameterId": "emotion"
+    }, {
+      "text": " right now.\""
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en"
+  }, {
+    "parts": [ {
+      "text": "\"Feeling "
+    }, {
+      "text": "overwhelmed",
+      "parameterId": "emotion"
+    }, {
+      "text": " by everything.\""
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en"
+  }, {
+    "parts": [ {
+      "text": "\"I'm "
+    }, {
+      "text": "struggling",
+      "parameterId": "emotion"
+    }, {
+      "text": " with my emotions.\""
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en"
+  }, {
+    "parts": [ {
+      "text": "\"Today has been "
+    }, {
+      "text": "challenging",
+      "parameterId": "emotion"
+    }, {
+      "text": " for me.\""
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en"
+  } ]
+}

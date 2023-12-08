@@ -1,0 +1,16 @@
+{
+  "name": "12cc440d-ab5b-4f8c-8e83-9345b47abafb",
+  "displayName": "AdviceForPositiveMindset",
+  "parameters": [ {
+    "id": "moodstate",
+    "entityType": "@moodState"
+  }, {
+    "id": "moodstate1",
+    "entityType": "@moodState"
+  }, {
+    "id": "interactionreason",
+    "entityType": "@interactionReason"
+  } ],
+  "priority": 500000,
+  "numTrainingPhrases": 20
+}

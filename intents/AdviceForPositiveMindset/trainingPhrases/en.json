@@ -1,0 +1,304 @@
+{
+  "trainingPhrases": [ {
+    "parts": [ {
+      "text": "\"I want to adopt a more ",
+      "auto": true
+    }, {
+      "text": "positive",
+      "parameterId": "moodstate",
+      "auto": true
+    }, {
+      "text": " mindset. Any ",
+      "auto": true
+    }, {
+      "text": "advice",
+      "parameterId": "interactionreason",
+      "auto": true
+    }, {
+      "text": "?\"",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en"
+  }, {
+    "parts": [ {
+      "text": "\"Tell me about the power of ",
+      "auto": true
+    }, {
+      "text": "positive",
+      "parameterId": "moodstate",
+      "auto": true
+    }, {
+      "text": " thinking.\"",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en"
+  }, {
+    "parts": [ {
+      "text": "\"Give me ",
+      "auto": true
+    }, {
+      "text": "advice",
+      "parameterId": "interactionreason",
+      "auto": true
+    }, {
+      "text": " on finding joy and ",
+      "auto": true
+    }, {
+      "text": "positivity",
+      "parameterId": "moodstate",
+      "auto": true
+    }, {
+      "text": " every day.\"",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en"
+  }, {
+    "parts": [ {
+      "text": "\"How can I stay ",
+      "auto": true
+    }, {
+      "text": "positive",
+      "parameterId": "moodstate",
+      "auto": true
+    }, {
+      "text": " even when faced with challenges?\"",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en"
+  }, {
+    "parts": [ {
+      "text": "\"I need tips on maintaining ",
+      "auto": true
+    }, {
+      "text": "positivity",
+      "parameterId": "moodstate",
+      "auto": true
+    }, {
+      "text": " in my thoughts.\"",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en"
+  }, {
+    "parts": [ {
+      "text": "\"What mindset practices can contribute to a happier life?\"",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en"
+  }, {
+    "parts": [ {
+      "text": "\"Tell me about strategies for cultivating a ",
+      "auto": true
+    }, {
+      "text": "positive",
+      "parameterId": "moodstate",
+      "auto": true
+    }, {
+      "text": " mindset.\"",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en"
+  }, {
+    "parts": [ {
+      "text": "\"I'm looking for guidance on thinking more ",
+      "auto": true
+    }, {
+      "text": "positively",
+      "parameterId": "moodstate",
+      "auto": true
+    }, {
+      "text": ".\"",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en"
+  }, {
+    "parts": [ {
+      "text": "\"Share insights on fostering a ",
+      "auto": true
+    }, {
+      "text": "positive",
+      "parameterId": "moodstate",
+      "auto": true
+    }, {
+      "text": " mental attitude.\"",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en"
+  }, {
+    "parts": [ {
+      "text": "\"How can I overcome ",
+      "auto": true
+    }, {
+      "text": "negativity",
+      "parameterId": "moodstate",
+      "auto": true
+    }, {
+      "text": " and focus on the ",
+      "auto": true
+    }, {
+      "text": "positive",
+      "parameterId": "moodstate1",
+      "auto": true
+    }, {
+      "text": "?\"",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en"
+  }, {
+    "parts": [ {
+      "text": "\"I want ",
+      "auto": true
+    }, {
+      "text": "advice",
+      "parameterId": "interactionreason",
+      "auto": true
+    }, {
+      "text": " on building a more ",
+      "auto": true
+    }, {
+      "text": "positive",
+      "parameterId": "moodstate",
+      "auto": true
+    }, {
+      "text": " and hopeful outlook.\"",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en"
+  }, {
+    "parts": [ {
+      "text": "\"What are some daily habits to promote a ",
+      "auto": true
+    }, {
+      "text": "positive",
+      "parameterId": "moodstate",
+      "auto": true
+    }, {
+      "text": " mindset?\"",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en"
+  }, {
+    "parts": [ {
+      "text": "\"Give me suggestions for staying optimistic during tough times.\"",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en"
+  }, {
+    "parts": [ {
+      "text": "\"Tell me about practices for maintaining a ",
+      "auto": true
+    }, {
+      "text": "positive",
+      "parameterId": "moodstate",
+      "auto": true
+    }, {
+      "text": " attitude.\"",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en"
+  }, {
+    "parts": [ {
+      "text": "\"How can I shift towards a more ",
+      "auto": true
+    }, {
+      "text": "positive",
+      "parameterId": "moodstate",
+      "auto": true
+    }, {
+      "text": " mindset?\"",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en"
+  }, {
+    "parts": [ {
+      "text": "\"I need ",
+      "auto": true
+    }, {
+      "text": "advice",
+      "parameterId": "interactionreason",
+      "auto": true
+    }, {
+      "text": " on fostering a more ",
+      "auto": true
+    }, {
+      "text": "positive",
+      "parameterId": "moodstate",
+      "auto": true
+    }, {
+      "text": " perspective.\"",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en"
+  }, {
+    "parts": [ {
+      "text": "\"Share tips for cultivating a ",
+      "auto": true
+    }, {
+      "text": "positive",
+      "parameterId": "moodstate",
+      "auto": true
+    }, {
+      "text": " mindset.\"",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en"
+  }, {
+    "parts": [ {
+      "text": "\"What can I do to improve my mood and outlook on life?\"",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en"
+  }, {
+    "parts": [ {
+      "text": "\"Give me ",
+      "auto": true
+    }, {
+      "text": "advice",
+      "parameterId": "interactionreason",
+      "auto": true
+    }, {
+      "text": " for staying ",
+      "auto": true
+    }, {
+      "text": "positive",
+      "parameterId": "moodstate",
+      "auto": true
+    }, {
+      "text": " on a daily basis.\"",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en"
+  }, {
+    "parts": [ {
+      "text": "\"How can I maintain a ",
+      "auto": true
+    }, {
+      "text": "positive",
+      "parameterId": "moodstate",
+      "auto": true
+    }, {
+      "text": " mindset in challenging times?\"",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en"
+  } ]
+}

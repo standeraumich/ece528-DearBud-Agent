@@ -1,0 +1,248 @@
+{
+  "trainingPhrases": [ {
+    "parts": [ {
+      "text": "psychotherapy",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en"
+  }, {
+    "parts": [ {
+      "text": "I would like to receive professional help",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en"
+  }, {
+    "parts": [ {
+      "text": "Professional help",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en"
+  }, {
+    "parts": [ {
+      "text": "I want to visit a ",
+      "auto": true
+    }, {
+      "text": "psychologist",
+      "parameterId": "interactionreason",
+      "auto": true
+    }, {
+      "text": " and psychiatrist",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en"
+  }, {
+    "parts": [ {
+      "text": "I need ",
+      "auto": true
+    }, {
+      "text": "to talk to",
+      "parameterId": "interactionreason",
+      "auto": true
+    }, {
+      "text": " a ",
+      "auto": true
+    }, {
+      "text": "psychologist",
+      "parameterId": "interactionreason",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en"
+  }, {
+    "parts": [ {
+      "text": "I need ",
+      "auto": true
+    }, {
+      "text": "to talk to",
+      "parameterId": "interactionreason",
+      "auto": true
+    }, {
+      "text": " a ",
+      "auto": true
+    }, {
+      "text": "professional",
+      "parameterId": "interactionreason",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en"
+  }, {
+    "parts": [ {
+      "text": "I need express my emotions to someone",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en"
+  }, {
+    "parts": [ {
+      "text": "I need to vent to ",
+      "auto": true
+    }, {
+      "text": "somone",
+      "parameterId": "interactionreason",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en"
+  }, {
+    "parts": [ {
+      "text": "help",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en"
+  }, {
+    "parts": [ {
+      "text": "I need help ",
+      "auto": true
+    }, {
+      "text": "from",
+      "parameterId": "interactionreason",
+      "auto": true
+    }, {
+      "text": " someone ",
+      "auto": true
+    }, {
+      "text": "else",
+      "parameterId": "interactionreason",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en"
+  }, {
+    "parts": [ {
+      "text": "Therapy",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en"
+  }, {
+    "parts": [ {
+      "text": "How ",
+      "auto": true
+    }, {
+      "text": "can",
+      "parameterId": "interactionreason",
+      "auto": true
+    }, {
+      "text": " I ",
+      "auto": true
+    }, {
+      "text": "get",
+      "parameterId": "interactionreason",
+      "auto": true
+    }, {
+      "text": " better",
+      "auto": true
+    }, {
+      "text": "?",
+      "parameterId": "interactionreason",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en"
+  }, {
+    "parts": [ {
+      "text": "I feel ",
+      "auto": true
+    }, {
+      "text": "like",
+      "parameterId": "interactionreason",
+      "auto": true
+    }, {
+      "text": " I need to talk to ",
+      "auto": true
+    }, {
+      "text": "somebody",
+      "parameterId": "interactionreason",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en"
+  }, {
+    "parts": [ {
+      "text": "I get angry ",
+      "auto": true
+    }, {
+      "text": "often",
+      "parameterId": "interactionreason",
+      "auto": true
+    }, {
+      "text": " and need someone ",
+      "auto": true
+    }, {
+      "text": "to talk to",
+      "parameterId": "interactionreason",
+      "auto": true
+    }, {
+      "text": " about ",
+      "auto": true
+    }, {
+      "text": "it",
+      "parameterId": "interactionreason",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en"
+  }, {
+    "parts": [ {
+      "text": "I need help",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en"
+  }, {
+    "parts": [ {
+      "text": "need therapy",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en"
+  }, {
+    "parts": [ {
+      "text": "looking for therapy",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en"
+  }, {
+    "parts": [ {
+      "text": "I would like to go to therapy but don't know where to start",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en"
+  }, {
+    "parts": [ {
+      "text": "I want therapy",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en"
+  }, {
+    "parts": [ {
+      "text": "How do I treat my mental health",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en"
+  }, {
+    "parts": [ {
+      "text": "I'm ",
+      "auto": true
+    }, {
+      "text": "seeking",
+      "parameterId": "interactionreason",
+      "auto": true
+    }, {
+      "text": " therapy because I have depression",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en"
+  } ]
+}

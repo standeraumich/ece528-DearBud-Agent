@@ -1,0 +1,28 @@
+{
+  "name": "a51fdf8b-1969-4f0c-a71a-60a16eafcbba",
+  "displayName": "Follow-up",
+  "form": {
+  
+  },
+  "transitionRoutes": [ {
+    "intent": "AgreetoKnowMore",
+    "triggerFulfillment": {
+      "messages": [ {
+        "text": {
+          "text": [ "That's great to hear! What would you like to learn about mental health?" ]
+        },
+        "languageCode": "en"
+      } ]
+    },
+    "targetPage": "Start Page",
+    "name": "1124f13c-27ef-4ef4-a3d2-de2357d24343"
+  } ],
+  "eventHandlers": [ {
+    "targetPage": "End Session",
+    "event": "sys.no-match-default",
+    "triggerFulfillment": {
+      "enableGenerativeFallback": true
+    },
+    "name": "600b3c2c-9775-40e5-b55e-4d625fdc2216"
+  } ]
+}

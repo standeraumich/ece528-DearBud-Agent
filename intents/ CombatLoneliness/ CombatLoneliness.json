@@ -1,0 +1,10 @@
+{
+  "name": "db0a3776-76e3-4f06-9deb-b2689f6271a0",
+  "displayName": " CombatLoneliness",
+  "parameters": [ {
+    "id": "interactionreason",
+    "entityType": "@interactionReason"
+  } ],
+  "priority": 500000,
+  "numTrainingPhrases": 20
+}

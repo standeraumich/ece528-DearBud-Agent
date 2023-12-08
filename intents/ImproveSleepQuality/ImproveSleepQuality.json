@@ -1,0 +1,13 @@
+{
+  "name": "954c6ee7-fa16-40bc-b188-8a5f5dd31f27",
+  "displayName": "ImproveSleepQuality",
+  "parameters": [ {
+    "id": "interactionreason",
+    "entityType": "@interactionReason"
+  }, {
+    "id": "sleepquality",
+    "entityType": "@sleepQuality"
+  } ],
+  "priority": 500000,
+  "numTrainingPhrases": 20
+}

@@ -1,0 +1,15 @@
+{
+  "name": "62c6fb40-33fa-4ac7-a5b2-0aed083eedff",
+  "displayName": "Positive Mood Page",
+  "form": {
+  
+  },
+  "entryFulfillment": {
+    "messages": [ {
+      "text": {
+        "text": [ "Share more! I'll be happy to listen to you more!" ]
+      },
+      "languageCode": "en"
+    } ]
+  }
+}
